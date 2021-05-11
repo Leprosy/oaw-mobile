@@ -1281,9 +1281,9 @@
     eslint-visitor-keys "^1.1.0"
 
 "@typescript-eslint/types@3.7.0":
-  version "3.6.2-alpha.7"
-  resolved "https://maven.vpn.etonreve.com/api/npm/npm/@typescript-eslint/types/-/types-3.6.2-alpha.7.tgz#c8277df893c5b0a2ad6100a23f2728339728296f"
-  integrity sha1-yCd9+JPFsKKtYQCiPycoM5coKW8=
+  version "3.7.0"
+  resolved "https://registry.yarnpkg.com/@typescript-eslint/types/-/types-3.7.0.tgz#09897fab0cb95479c01166b10b2c03c224821077"
+  integrity sha512-reCaK+hyKkKF+itoylAnLzFeNYAEktB0XVfSQvf0gcVgpz1l49Lt6Vo9x4MVCCxiDydA0iLAjTF/ODH0pbfnpg==
 
 "@typescript-eslint/typescript-estree@3.7.0":
   version "3.7.0"
@@ -1300,9 +1300,9 @@
     tsutils "^3.17.1"
 
 "@typescript-eslint/visitor-keys@3.7.0":
-  version "3.6.2-alpha.7"
-  resolved "https://maven.vpn.etonreve.com/api/npm/npm/@typescript-eslint/visitor-keys/-/visitor-keys-3.6.2-alpha.7.tgz#b28fbe089316c3380d6de20c35709b5fa67e11ca"
-  integrity sha1-so++CJMWwzgNbeIMNXCbX6Z+Eco=
+  version "3.7.0"
+  resolved "https://registry.yarnpkg.com/@typescript-eslint/visitor-keys/-/visitor-keys-3.7.0.tgz#ac0417d382a136e4571a0b0dcfe52088cb628177"
+  integrity sha512-k5PiZdB4vklUpUX4NBncn5RBKty8G3ihTY+hqJsCdMuD0v4jofI5xuqwnVcWxfv6iTm2P/dfEa2wMUnsUY8ODw==
   dependencies:
     eslint-visitor-keys "^1.1.0"
 
@@ -4288,9 +4288,9 @@ lodash.throttle@^4.1.1:
   integrity sha1-wj6RtxAkKscMN/HhzaknTMOb8vQ=
 
 lodash@^4.17.10, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.19, lodash@^4.3.0:
-  version "4.17.19"
-  resolved "https://maven.vpn.etonreve.com/api/npm/npm/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
-  integrity sha1-5I3e2+MLMyF4PFtDAfvTU7weSks=
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 log-symbols@^2.2.0:
   version "2.2.0"
